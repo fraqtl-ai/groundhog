@@ -15,8 +15,8 @@ Everything runs on your machine. Nothing is uploaded. It never edits anything.
 ## Install
 
 ```
-/plugin marketplace add fraqtl/groundhog
-/plugin install groundhog@fraqtl
+/plugin marketplace add fraqtl-ai/groundhog
+/plugin install groundhog@fraqtl-ai
 ```
 
 Then in any Claude Code session:
