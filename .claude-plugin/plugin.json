@@ -1,0 +1,10 @@
+{
+  "name": "groundhog",
+  "displayName": "Groundhog — Your Agent's Groundhog Day",
+  "description": "See how your Claude Code agent actually behaved: how often it repeated the same work, which files it thrashed, how many no-ops it fired, and how often the world moved under it between look and look-again. Local, read-only, nothing uploaded.",
+  "version": "0.1.0",
+  "author": {
+    "name": "fraQtl"
+  },
+  "keywords": ["analytics", "agent", "reproducibility", "insights", "sessions", "groundhog"]
+}

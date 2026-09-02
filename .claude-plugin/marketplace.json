@@ -1,0 +1,14 @@
+{
+  "name": "fraqtl",
+  "owner": {
+    "name": "fraQtl"
+  },
+  "plugins": [
+    {
+      "name": "groundhog",
+      "source": "./",
+      "displayName": "Groundhog — Your Agent's Groundhog Day",
+      "description": "See how your Claude Code agent actually behaved: repeat rate, most-thrashed file, no-ops, and how often the world moved under it. Local, read-only."
+    }
+  ]
+}
